@@ -8,7 +8,7 @@ no_parasiticcapacitance contains four model scripts without parasitic capacitanc
 Notice:
 The result of the dispersion relation is in dB, which needs to be changed to linear.
 ####
-
+fix&random_parasiticcapacitance contains four model scripts with parasitic capacitance,
 
 
 
